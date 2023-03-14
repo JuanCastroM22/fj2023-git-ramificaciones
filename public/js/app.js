@@ -1,5 +1,5 @@
 function saludar() {
-    alert('Hola quien seas!');
+    alert('Hola quien seas tu!');
 }
 
 saludar();
