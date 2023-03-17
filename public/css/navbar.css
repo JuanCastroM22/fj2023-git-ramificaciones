@@ -1,0 +1,6 @@
+/* Barra de navegacion */
+nav{
+    background-color: #fff;
+    padding: 5px;
+    display: flex;
+}
